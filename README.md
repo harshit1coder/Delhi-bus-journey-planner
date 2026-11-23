@@ -132,7 +132,8 @@ Section 8 writes these files to `/content/outputs` and zips them as `final_outpu
 .
 ├── delhi_bus_journey_planner.ipynb   # full pipeline, API and map page
 ├── README.md
-└── outputs/                          # validation CSVs, scatter plot, sample API JSON
+├── LICENSE                           # MIT
+└── outputs/                          # validation CSVs, scatter plot, sample JSON
 ```
 
 ## Acknowledgements
