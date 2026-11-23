@@ -1,5 +1,7 @@
 # Delhi Bus Journey Planner
 
+Video Demonstration - https://www.youtube.com/watch?v=Ox6eqeT-7zA
+
 A bus journey planner for Delhi that predicts travel times from **observed** bus GPS data instead of the published timetable.
 
 Built for the **Transport Stack Hackathon 2026, Problem 1**. The whole project is one Google Colab notebook: [`delhi_bus_journey_planner.ipynb`](delhi_bus_journey_planner.ipynb).
