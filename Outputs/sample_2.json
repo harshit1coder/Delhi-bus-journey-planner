@@ -1,0 +1,104 @@
+{
+ "day_type": "wd",
+ "options": [
+  {
+   "total_min": 94.3,
+   "transfers": 1,
+   "legs": [
+    {
+     "type": "walk",
+     "min": 0.5,
+     "to": "Rohini West Metro Station"
+    },
+    {
+     "type": "bus",
+     "route": "984ADOWN",
+     "board": "Rohini West Metro Station",
+     "board_ll": [
+      28.71483217606336,
+      77.11533802399363
+     ],
+     "wait_min": 8.5,
+     "stops": 5,
+     "alight": "Rohini Sectocr -1 Avantika",
+     "alight_ll": [
+      28.70365,
+      77.100518
+     ],
+     "ride_min": 9.2
+    },
+    {
+     "type": "bus",
+     "route": "DS-8DOWN",
+     "board": "Rohini Sectocr -1 Avantika",
+     "board_ll": [
+      28.70365,
+      77.100518
+     ],
+     "wait_min": 12.0,
+     "stops": 4,
+     "alight": "Shivaji Stadium Terminal ( Connaught Place )",
+     "alight_ll": [
+      28.6323,
+      77.2165
+     ],
+     "ride_min": 62.5
+    },
+    {
+     "type": "walk",
+     "min": 1.6,
+     "to": "destination"
+    }
+   ],
+   "depart": "09:00",
+   "arrive": "10:34",
+   "best_route_minutes_at_23:00": 70.4
+  },
+  {
+   "total_min": 95.0,
+   "transfers": 0,
+   "legs": [
+    {
+     "type": "walk",
+     "min": 0.3,
+     "to": "Rohini West Metro Station / ROHINI SEC 6"
+    },
+    {
+     "type": "bus",
+     "route": "990EXTSPLDOWN",
+     "board": "Rohini West Metro Station / ROHINI SEC 6",
+     "board_ll": [
+      28.71496861261241,
+      77.11546658958794
+     ],
+     "wait_min": 12.0,
+     "stops": 34,
+     "alight": "Shivaji Stadium Terminal ( Connaught Place )",
+     "alight_ll": [
+      28.6323,
+      77.2165
+     ],
+     "ride_min": 81.2
+    },
+    {
+     "type": "walk",
+     "min": 1.6,
+     "to": "destination"
+    }
+   ],
+   "depart": "09:00",
+   "arrive": "10:34",
+   "best_route_minutes_at_23:00": 70.4
+  }
+ ],
+ "from": {
+  "lat": 28.7149,
+  "lng": 77.1156,
+  "stop": null
+ },
+ "to": {
+  "lat": 28.6315,
+  "lng": 77.2167,
+  "stop": null
+ }
+}

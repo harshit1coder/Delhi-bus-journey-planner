@@ -1,0 +1,31 @@
+pair,depart,our_min,transfers,routes,google_bus_min,abs_err_min,err_%
+Kashmere Gate ISBT -> Nehru Place,09:00,68.3,0,425CLUP,80.0,11.700000000000003,-14.625000000000004
+Kashmere Gate ISBT -> Nehru Place,14:00,74.4,1,214DOWN > 425UP,,,
+Kashmere Gate ISBT -> Nehru Place,22:30,60.5,0,425UP,80.0,19.5,-24.375
+Connaught Place -> Saket,09:00,85.7,3,359UP > 966DOWN > 502UP > 534DOWN,104.0,18.299999999999997,-17.596153846153843
+Connaught Place -> Saket,14:00,94.2,1,620UP > 546UP,,,
+Connaught Place -> Saket,22:30,80.1,1,620UP > 546UP,,,
+Anand Vihar ISBT -> Rajouri Garden,09:00,110.5,1,236EXTUP > 832DOWN,117.0,6.5,-5.555555555555555
+Anand Vihar ISBT -> Rajouri Garden,14:00,124.7,2,221DOWN > 211DOWN > TMS(-)DOWN,,,
+Anand Vihar ISBT -> Rajouri Garden,22:30,89.5,1,73UP > 72UP,,,
+Lajpat Nagar -> Karol Bagh,09:00,78.0,1,410DOWN > 966UP,49.0,29.0,59.183673469387756
+Lajpat Nagar -> Karol Bagh,14:00,88.3,1,410DOWN > 610DOWN,,,
+Lajpat Nagar -> Karol Bagh,22:30,66.8,0,450DOWN,,,
+Rohini West -> Connaught Place,09:00,94.3,1,984ADOWN > DS-8DOWN,74.0,20.299999999999997,27.432432432432428
+Rohini West -> Connaught Place,14:00,99.6,1,975DOWN > 729DOWN,,,
+Rohini West -> Connaught Place,22:30,72.0,0,990EXTSPLDOWN,81.0,9.0,-11.11111111111111
+Hauz Khas -> Mayur Vihar Ph1,09:00,89.8,3,507UP > 543ADOWN > 307UP > D-4402(-)DOWN,68.0,21.799999999999997,32.05882352941176
+Hauz Khas -> Mayur Vihar Ph1,14:00,96.1,1,507UP > 611ADOWN,,,
+Hauz Khas -> Mayur Vihar Ph1,22:30,77.0,1,D-028DOWN > 611ADOWN,,,
+Azadpur -> ITO,09:00,63.9,1,883DOWN > 139DOWN,67.0,3.1000000000000014,-4.626865671641792
+Azadpur -> ITO,14:00,65.2,0,TMS(+)UP,,,
+Azadpur -> ITO,22:30,53.9,1,TMS(+)UP > 135DOWN,88.0,34.1,-38.75
+Munirka -> Kalkaji,09:00,45.9,1,764UP > 449DOWN,56.0,10.100000000000001,-18.03571428571429
+Munirka -> Kalkaji,14:00,50.5,1,764UP > 449DOWN,,,
+Munirka -> Kalkaji,22:30,46.8,1,764UP > 445UP,,,
+Red Fort -> Lajpat Nagar,09:00,72.2,1,429UP > D-060DOWN,44.0,28.200000000000003,64.09090909090911
+Red Fort -> Lajpat Nagar,14:00,74.4,2,TMS(+)UP > 311ADOWN > D-060DOWN,,,
+Red Fort -> Lajpat Nagar,22:30,65.9,1,TMS(+)UP > D-026UP,,,
+Sarai Kale Khan -> Dilshad Garden,09:00,45.5,1,543ADOWN > 33DOWN,,,
+Sarai Kale Khan -> Dilshad Garden,14:00,44.0,1,543ADOWN > 33DOWN,,,
+Sarai Kale Khan -> Dilshad Garden,22:30,45.6,1,543ADOWN > 33DOWN,,,

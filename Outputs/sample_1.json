@@ -1,0 +1,51 @@
+{
+ "day_type": "wd",
+ "options": [
+  {
+   "total_min": 60.3,
+   "transfers": 0,
+   "legs": [
+    {
+     "type": "walk",
+     "min": 2.1,
+     "to": "ISBT Kashmiri Gate"
+    },
+    {
+     "type": "bus",
+     "route": "449UP",
+     "board": "ISBT Kashmiri Gate",
+     "board_ll": [
+      28.66800192893344,
+      77.22928246009047
+     ],
+     "wait_min": 20.0,
+     "stops": 26,
+     "alight": "Nehru Place",
+     "alight_ll": [
+      28.54857609786973,
+      77.24913317314967
+     ],
+     "ride_min": 34.6
+    },
+    {
+     "type": "walk",
+     "min": 3.6,
+     "to": "destination"
+    }
+   ],
+   "depart": "23:00",
+   "arrive": "00:00",
+   "best_route_minutes_at_23:00": 60.3
+  }
+ ],
+ "from": {
+  "lat": 28.6675,
+  "lng": 77.2282,
+  "stop": null
+ },
+ "to": {
+  "lat": 28.5491,
+  "lng": 77.2512,
+  "stop": null
+ }
+}

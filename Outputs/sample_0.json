@@ -1,0 +1,51 @@
+{
+ "day_type": "wd",
+ "options": [
+  {
+   "total_min": 67.0,
+   "transfers": 0,
+   "legs": [
+    {
+     "type": "walk",
+     "min": 2.2,
+     "to": "Kashmere Gate City Bus Terminal"
+    },
+    {
+     "type": "bus",
+     "route": "425CLUP",
+     "board": "Kashmere Gate City Bus Terminal",
+     "board_ll": [
+      28.668198,
+      77.229219
+     ],
+     "wait_min": 12.0,
+     "stops": 27,
+     "alight": "Nehru Place",
+     "alight_ll": [
+      28.54857609786973,
+      77.24913317314967
+     ],
+     "ride_min": 49.2
+    },
+    {
+     "type": "walk",
+     "min": 3.6,
+     "to": "destination"
+    }
+   ],
+   "depart": "08:30",
+   "arrive": "09:36",
+   "best_route_minutes_at_23:00": 60.3
+  }
+ ],
+ "from": {
+  "lat": 28.6675,
+  "lng": 77.2282,
+  "stop": null
+ },
+ "to": {
+  "lat": 28.5491,
+  "lng": 77.2512,
+  "stop": null
+ }
+}
